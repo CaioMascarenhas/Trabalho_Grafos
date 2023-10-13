@@ -35,7 +35,12 @@ void BellmanFord(vector<vector<Edge>>& graph, vector<vector<int>>& weights, int 
     }
 
     for (int i = 1; i <= n; i++) {
-        cout << "Minimum distance from " << start_vertex << " to " << i << ": " << distance[i] << endl;
+        if (distance[i] == 2147483647)
+        {
+             cout << "Não existe caminho no grafo de " << start_vertex << " para " << i << "." << endl;
+        }
+        else
+        cout << "distancia mínima de " << start_vertex << " para " << i << ": " << distance[i] << endl;
     }
 }
 
