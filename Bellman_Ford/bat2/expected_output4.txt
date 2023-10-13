@@ -1,0 +1,15 @@
+Distancia minima de 1 para 1: 0
+Distancia minima de 1 para 2: 7
+Distancia minima de 1 para 3: 3
+Distancia minima de 1 para 4: 5
+Distancia minima de 1 para 5: 9
+Distancia minima de 1 para 6: 11
+Distancia minima de 1 para 7: 9
+Distancia minima de 1 para 8: 11
+Distancia minima de 1 para 9: 14
+Distancia minima de 1 para 10: 6
+Distancia minima de 1 para 11: 13
+Distancia minima de 1 para 12: 10
+Distancia minima de 1 para 13: 11
+Distancia minima de 1 para 14: 11
+Distancia minima de 1 para 15: 13

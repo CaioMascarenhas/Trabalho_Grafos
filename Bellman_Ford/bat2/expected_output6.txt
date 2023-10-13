@@ -1,0 +1,25 @@
+Distancia minima de 1 para 1: 0
+Distancia minima de 1 para 2: 5
+Distancia minima de 1 para 3: 8
+Distancia minima de 1 para 4: 3
+Distancia minima de 1 para 5: 11
+Distancia minima de 1 para 6: 7
+Distancia minima de 1 para 7: 12
+Distancia minima de 1 para 8: 17
+Distancia minima de 1 para 9: 10
+Distancia minima de 1 para 10: 4
+Distancia minima de 1 para 11: 14
+Distancia minima de 1 para 12: 12
+Distancia minima de 1 para 13: 9
+Distancia minima de 1 para 14: 16
+Distancia minima de 1 para 15: 14
+Não existe caminho no grafo de 1 para 16.
+Não existe caminho no grafo de 1 para 17.
+Não existe caminho no grafo de 1 para 18.
+Não existe caminho no grafo de 1 para 19.
+Não existe caminho no grafo de 1 para 20.
+Não existe caminho no grafo de 1 para 21.
+Não existe caminho no grafo de 1 para 22.
+Não existe caminho no grafo de 1 para 23.
+Não existe caminho no grafo de 1 para 24.
+Não existe caminho no grafo de 1 para 25.

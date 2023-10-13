@@ -1,0 +1,77 @@
+Distancia minima de 1 para 1: 0
+Distancia minima de 1 para 2: 3
+Distancia minima de 1 para 3: 2
+Distancia minima de 1 para 4: 7
+Distancia minima de 1 para 5: 6
+Distancia minima de 1 para 6: 4
+Distancia minima de 1 para 7: 7
+Distancia minima de 1 para 8: 10
+Distancia minima de 1 para 9: 9
+Distancia minima de 1 para 10: 7
+Distancia minima de 1 para 11: 12
+Distancia minima de 1 para 12: 8
+Distancia minima de 1 para 13: 7
+Distancia minima de 1 para 14: 9
+Distancia minima de 1 para 15: 12
+Distancia minima de 1 para 16: 13
+Distancia minima de 1 para 17: 12
+Distancia minima de 1 para 18: 10
+Distancia minima de 1 para 19: 13
+Distancia minima de 1 para 20: 12
+Distancia minima de 1 para 21: 10
+Distancia minima de 1 para 22: 14
+Distancia minima de 1 para 23: 18
+Distancia minima de 1 para 24: 12
+Distancia minima de 1 para 25: 11
+Distancia minima de 1 para 26: 9
+Distancia minima de 1 para 27: 12
+Distancia minima de 1 para 28: 12
+Distancia minima de 1 para 29: 11
+Distancia minima de 1 para 30: 13
+Distancia minima de 1 para 31: 16
+Distancia minima de 1 para 32: 18
+Distancia minima de 1 para 33: 16
+Distancia minima de 1 para 34: 14
+Distancia minima de 1 para 35: 18
+Distancia minima de 1 para 36: 14
+Distancia minima de 1 para 37: 13
+Distancia minima de 1 para 38: 15
+Distancia minima de 1 para 39: 18
+Distancia minima de 1 para 40: 15
+Distancia minima de 1 para 41: 14
+Distancia minima de 1 para 42: 12
+Não existe caminho no grafo de 1 para 43.
+Não existe caminho no grafo de 1 para 44.
+Não existe caminho no grafo de 1 para 45.
+Não existe caminho no grafo de 1 para 46.
+Não existe caminho no grafo de 1 para 47.
+Não existe caminho no grafo de 1 para 48.
+Não existe caminho no grafo de 1 para 49.
+Não existe caminho no grafo de 1 para 50.
+Não existe caminho no grafo de 1 para 51.
+Não existe caminho no grafo de 1 para 52.
+Não existe caminho no grafo de 1 para 53.
+Não existe caminho no grafo de 1 para 54.
+Não existe caminho no grafo de 1 para 55.
+Não existe caminho no grafo de 1 para 56.
+Não existe caminho no grafo de 1 para 57.
+Não existe caminho no grafo de 1 para 58.
+Não existe caminho no grafo de 1 para 59.
+Não existe caminho no grafo de 1 para 60.
+Não existe caminho no grafo de 1 para 61.
+Não existe caminho no grafo de 1 para 62.
+Não existe caminho no grafo de 1 para 63.
+Não existe caminho no grafo de 1 para 64.
+Não existe caminho no grafo de 1 para 65.
+Não existe caminho no grafo de 1 para 66.
+Não existe caminho no grafo de 1 para 67.
+Não existe caminho no grafo de 1 para 68.
+Não existe caminho no grafo de 1 para 69.
+Não existe caminho no grafo de 1 para 70.
+Não existe caminho no grafo de 1 para 71.
+Não existe caminho no grafo de 1 para 72.
+Não existe caminho no grafo de 1 para 73.
+Não existe caminho no grafo de 1 para 74.
+Não existe caminho no grafo de 1 para 75.
+Não existe caminho no grafo de 1 para 76.
+Não existe caminho no grafo de 1 para 77.
